@@ -9,7 +9,7 @@
 #SBATCH --partition=savio
 #
 # Wall clock limit:
-#SBATCH --time=00:30:00
+#SBATCH --time=02:30:00
 #
 ## Command(s) to run:
 python testpar.py
