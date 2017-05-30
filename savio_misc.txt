@@ -1,0 +1,8 @@
+ssh octavia@hpc.brc.berkeley.edu
+
+scp -r /Users/octavia/Google\ Drive/model/module octavia@dtn.brc.berkeley.edu:/global/home/users/octavia
+
+scp -r module octavia@dtn.brc.berkeley.edu:/global/home/users/octavia
+
+scp -r . octavia@dtn.brc.berkeley.edu:/global/home/users/octavia
+
